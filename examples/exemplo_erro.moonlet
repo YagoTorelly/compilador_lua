@@ -1,0 +1,7 @@
+-- Demonstração de erros
+local x = 10
+
+if x > 5  then
+    print("ok")
+	print("linha com TAB e espaços misturados")
+end

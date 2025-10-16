@@ -1,0 +1,4 @@
+local k = 0
+for x in iter do
+    k = k + 1
+end

@@ -1,0 +1,1 @@
+from .sintatico_moonlet import AnalisadorSintaticoMoonlet

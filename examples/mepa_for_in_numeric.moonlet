@@ -1,0 +1,5 @@
+-- for-in numérico equivalente: for i in 1, 4, 2 do ... end
+local sum = 0
+for i in 1, 4, 2 do
+    sum = sum + i
+end
