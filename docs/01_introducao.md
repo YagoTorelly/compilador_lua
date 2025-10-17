@@ -37,7 +37,7 @@ Um **compilador** é um programa que traduz código escrito em uma linguagem de 
 ### Analogia
 
 Pense em um compilador como um **tradutor multilíngue**:
-- 📝 **Entrada**: Código em Moonlet (linguagem que humanos entendem)
+- 📝 **Entrada**: Código em Moonlet (linguagem que nós entendemos)
 - 🔄 **Processamento**: Análise e tradução
 - ⚙️ **Saída**: Código MEPA (linguagem que a máquina entende)
 
