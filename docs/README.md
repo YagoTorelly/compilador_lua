@@ -169,3 +169,10 @@ compilador_lua/
   - Estruturas de controle (if, while, for, repeat)
   - Chamadas de função
   - Operações lógicas
+
+### Participantes 
+
+Yago 
+Leo
+Lucas Seiti
+Cintia
