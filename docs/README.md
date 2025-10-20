@@ -170,9 +170,11 @@ compilador_lua/
   - Chamadas de função
   - Operações lógicas
 
+---
+
 ### Participantes 
 
-Yago 
-Leo
-Lucas Seiti
-Cintia
+- Yago Torelly 
+- Leonardo Nunes Madureira
+- Lucas Kawagoto Seiti
+- Cintia Sae
